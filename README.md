@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DesiStuff, you can call me Imran, I am a computer programmer with interest in Machine learning and Front end Development.
 - 👀 I’m interested in Computer Programming, Data Science and Data Engineering
 - 🌱 I’m currently learning Databricks
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 💞️ I’m looking to collaborate on Data Science Projects and new Websites.
 - 📫 Reach me at imran.akbar1995@gmail.com or Linkedin: https://www.linkedin.com/in/imran-b/
 
 <!---
